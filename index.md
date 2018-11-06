@@ -177,8 +177,6 @@ The course is aimed at graduate students and other researchers, including underg
   for more information.
 </p>
 
-<hr/>
-
 {% comment %} 
  SURVEYS - DO NOT EDIT SURVEY LINKS 
 
@@ -195,7 +193,6 @@ The course is aimed at graduate students and other researchers, including underg
 <p><a href="{{ site.lc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% endif %}
 {% endcomment %}
-<hr/>
 
 
 {% comment %}
